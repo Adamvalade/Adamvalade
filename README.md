@@ -43,9 +43,10 @@ Backend engineering, distributed systems, AI, databases, performance optimizatio
 
 **Languages:** C++, Python, TypeScript, JavaScript, SQL, Java
 
+
 **Tools/Frameworks:** FastAPI, React, Next.js, Redis, PostgreSQL, Docker
 
 ## Links
 
 Portfolio: https://adamvalade.github.io  
-LinkedIn: [your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/adamvalade/
